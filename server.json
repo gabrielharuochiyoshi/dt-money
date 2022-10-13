@@ -1,0 +1,52 @@
+{
+  "transactions": [
+    {
+      "id": 1,
+      "description": "Desenvolvimento de site",
+      "type": "income",
+      "category": "Venda",
+      "price": 14000,
+      "createdAt": "2022-10-12T17:16:56.144Z"
+    },
+    {
+      "id": 2,
+      "description": "Fast-food",
+      "type": "outcome",
+      "category": "Alimentação",
+      "price": 50,
+      "createdAt": "2022-10-12T17:31:56.144Z"
+    },
+    {
+      "id": 3,
+      "description": "Placa Mãe PC",
+      "type": "outcome",
+      "category": "Computadores",
+      "price": 4000,
+      "createdAt": "2022-10-12T19:16:56.144Z"
+    },
+    {
+      "id": 4,
+      "description": "Recebimento Valores",
+      "type": "income",
+      "category": "Venda",
+      "price": 8000,
+      "createdAt": "2022-10-14T20:16:56.144Z"
+    },
+    {
+      "id": 5,
+      "description": "Agiotagem",
+      "type": "income",
+      "category": "Cobrança",
+      "price": 6000,
+      "createdAt": "2022-10-12T21:16:56.144Z"
+    },
+    {
+      "id": 6,
+      "description": "Cabos",
+      "type": "outcome",
+      "category": "Equipamentos para Computadores",
+      "price": 80,
+      "createdAt": "2022-10-12T21:19:56.144Z"
+    }
+  ]
+}
